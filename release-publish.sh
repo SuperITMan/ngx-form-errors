@@ -89,7 +89,7 @@ if [[ ${GITHUB_ACTIONS} == true ]]; then
   logInfo "Verifying that the NPM_TOKEN is available"
 
   if [[ ${NPM_TOKEN} == "" ]]; then
-    logInfo "Not publishing because the NPM_TOKEN environment variable is is not defined correctly" 1
+    logInfo "Not publishing because the NPM_TOKEN environment variable is not defined correctly" 1
     exit 1;
   fi
 fi

@@ -6,7 +6,7 @@
 
 [![NPM version](https://img.shields.io/npm/v/@nationalbankbelgium/ngx-form-errors.svg)](https://www.npmjs.com/package/@nationalbankbelgium/ngx-form-errors)
 [![npm](https://img.shields.io/npm/dm/@nationalbankbelgium/ngx-form-errors.svg)](https://www.npmjs.com/package/@nationalbankbelgium/ngx-form-errors)
-[![Build Status](https://github.com/NationalBankBelgium/ngx-form-errors/workflows/ci/badge.svg)](https://github.com/NationalBankBelgium/ngx-form-errors/actions?query=workflow%3Aci)
+[![Build Status](https://github.com/SuperITMan/ngx-form-errors/workflows/ci/badge.svg)](https://github.com/SuperITMan/ngx-form-errors/actions?query=workflow%3Aci)
 [![Coverage Status](https://coveralls.io/repos/github/NationalBankBelgium/ngx-form-errors/badge.svg?branch=master)](https://coveralls.io/github/NationalBankBelgium/ngx-form-errors?branch=master)
 [![Dependency Status](https://david-dm.org/NationalBankBelgium/ngx-form-errors.svg)](https://david-dm.org/NationalBankBelgium/ngx-form-errors)
 [![devDependency Status](https://david-dm.org/NationalBankBelgium/ngx-form-errors/dev-status.svg)](https://david-dm.org/NationalBankBelgium/ngx-form-errors#info=devDependencies)

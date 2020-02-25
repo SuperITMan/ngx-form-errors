@@ -83,7 +83,7 @@
     "rxjs": "6.x"
   },
   "scripts": {
-    "build": "ng build && cd dist && npm pack ./ --silent",
+    "build": "ng build && cd dist && npm pack ./ --silent && cd ..",
     "clean": "npx rimraf ./dist ./reports",
     "clean:all": "npm run clean && npm run clean:demo:ng-previous && npm run clean:demo:ng-latest",
     "clean:demo:ng-previous": "cd demo-app/ng7 && npm run clean && cd ..",

@@ -1,3 +1,8 @@
+<a name="1.0.1"></a>
+## [1.0.1](https://github.com/NationalBankBelgium/ngx-form-errors/compare/1.0.0...1.0.1) (2020-02-28)
+
+
+
 <a name="1.0.0"></a>
 # [1.0.0](https://github.com/NationalBankBelgium/ngx-form-errors/compare/1.0.0-rc.0...1.0.0) (2019-11-29)
 

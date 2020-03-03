@@ -35,6 +35,13 @@ jobs:
 
       # See: https://github.com/marketplace/actions/checkout
       - uses: actions/checkout@v2
+      
+      - name: "default node?"
+        run: |
+          NODE_VERSION="$(node -v)"
+          echo "Node version: $NODE_VERSION"
+          NPM_VERSION="$(npm --version)"
+          echo "NPM version: $NPM_VERSION"
 
       # See: https://github.com/marketplace/actions/setup-node-js-for-use-with-actions
       - name: Use Node.js ${{ matrix.node_version }}
